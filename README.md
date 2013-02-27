@@ -12,7 +12,5 @@ newsnow
     o	maintain an address book<br />
     o	assemble and mail the YNews<br />
     o	find and use resources on Unicomm<br />
-    o	maintain Y Facts</ul>
-  •	Providing a department directory that can be maintained online<br />
-  •	Enabling staff to easily record TV programs</ul></p>
+    o	maintain Y Facts</ul></p>
 
