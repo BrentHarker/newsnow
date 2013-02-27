@@ -3,8 +3,8 @@ newsnow
 
 Content management system for news.byu.edu
 
-The purpose of NewsNow is to automate the production of content by the staff of University Communications for consumption by the digital media and to make the use of technology by UC staff easy and pleasant. We accomplish this by:
-  •  Using a database for text and images that can easily produce web services
+The purpose of NewsNow is to automate the production of content by the staff of University Communications for consumption by the digital media and to make the use of technology by UC staff easy and pleasant. We accomplish this by:<br>
+  •  Using a database for text and images that can easily produce web services<br>
   •	Providing a forms-based content management system that allows staff members to:
     o	create news releases that include text, photos, video, hyperlinks, credits, social media links, highlights, related stories, date, categories, and contact information
     o	manipulate the main news page to choose what appears and in what order
