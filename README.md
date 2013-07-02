@@ -13,7 +13,7 @@ newsnow
     o	maintain an address book<br />
     o	assemble and mail the YNews<br />
     o	find and use resources on Unicomm<br />
-    o	maintain Y Facts</ul></p>
+    o	maintain Y Facts</ul></ul></p>
 <p>Purpose of This Project:</p>
 <p>Migrate the existing NewsNow to a Drupal 7 system on the Typo server, preserving its current features as specified in the Deliverables and bringing the design into compliance with the university templates.</p>
 
