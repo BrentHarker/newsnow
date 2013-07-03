@@ -2,6 +2,7 @@ newsnow
 =======
 
 <b>Content management system for news.byu.edu</b>
+<p>For the planning documents relating to this project, <a href="https://github.com/BrentHarker/newsnow/wiki">go to the wiki</a>.</p>
     
 <p>Purpose:</p>
 <p>The purpose of NewsNow is to automate the production of content by the staff of University Communications for consumption by the digital media and to make the use of technology by UC staff easy and pleasant. We accomplish this by:<br />
@@ -17,4 +18,3 @@ newsnow
 <p>Purpose of This Project:</p>
 <p>Migrate the existing NewsNow to a Drupal 7 system on the Typo server, preserving its current features as specified in the Deliverables and bringing the design into compliance with the university templates.</p>
 
-<p>For the planning documents relating to the project, <a href="https://github.com/BrentHarker/newsnow/wiki">go to the wiki</a>.</p>
